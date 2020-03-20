@@ -2,10 +2,9 @@
 /*
 * Name : Simple Spam Otp
 * File : s-spamOtp.php
-* Author : DulLah
-* Github : https://github.com/dz-id
-* Telegram : https://t.me/unikers
-* Date : 26-01-2020
+* Author : Sandi
+* Youtube : Sandi W
+* Date : 20-03-2020
 * Version : 1.0
 */
 
@@ -20,10 +19,9 @@ echo " \e[96m\n\n
 /___/   /___/ .__/\_,_/_/_/_/  \____/\__/ .__/
            /_/                         /_/    \e[0m
 \e[92m*-------------------------------------------*\e[0m
-  Author   : DulLah
-  Github   : https://github.com/dz-id
-  Telegram : https://t.me/unikers
-  Date     : 26-01-2020
+  Author   : Sandi
+  Youtube. : Sandi W
+  Date     : 20-03-2020
   Version  : 1.0
 \e[92m*-------------------------------------------*\e[0m\n
   \e[92m01\e[0m. Spam Otp MyPoin
@@ -35,7 +33,7 @@ echo " \e[96m\n\n
   \e[92m07\e[0m. Spam Otp CodaShopTsel\n\n";
 
 try {
-	echo "\e[96m[+] \e[91mDulLah\e[0m/> ";
+	echo "\e[96m[+] \e[91mSUBSCRIBE CHANNEL ANE GAN\e[0m/> ";
 	$choice = trim(fgets(STDIN));
 	$spam = new SimpleSpam\Otp();
 
