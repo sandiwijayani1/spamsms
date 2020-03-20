@@ -2,10 +2,9 @@
 /*
 * Name : Simple Spam Otp
 * File : version.php
-* Author : DulLah
-* Github : https://github.com/dz-id
-* Telegram : https://t.me/unikers
-* Date : 26-01-2020
+* Author : Sandi
+* Youtube ; Sandi W
+* Date : 20-03-2020
 * Version : 1.0
 */
 
